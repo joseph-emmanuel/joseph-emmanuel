@@ -15,6 +15,7 @@
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
+    <link rel="stylesheet" href="css/clear.css" />
 
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/owl.theme.default.min.css" />
@@ -154,9 +155,15 @@
             </div>
             <div class="row block-9">
               <div class="col-md-6 pr-md-5">
-                <form action="#">
+                <form
+                  action="mailto:joseph.emmanuel@outlook.com"
+                  method="POST"
+                  enctype="text/plain"
+                >
                   <div class="form-group">
                     <input
+                      name="name"
+                      id="f_name"
                       type="text"
                       class="form-control"
                       placeholder="Your Name"
@@ -165,12 +172,16 @@
                   <div class="form-group">
                     <input
                       type="text"
+                      name="mail"
+                      id="f_mail"
                       class="form-control"
                       placeholder="Your Email"
                     />
                   </div>
                   <div class="form-group">
                     <input
+                      name="subject"
+                      id="f_subject"
                       type="text"
                       class="form-control"
                       placeholder="Subject"
@@ -179,6 +190,8 @@
                   <div class="form-group">
                     <textarea
                       cols="30"
+                      name="message"
+                      id="f_message"
                       rows="7"
                       class="form-control"
                       placeholder="Message"
@@ -188,6 +201,7 @@
                     <input
                       type="submit"
                       value="Send Message"
+                      onclick="ClearFields();alert('Your Message submitted successfully')"
                       class="btn btn-primary py-3 px-5"
                     />
                   </div>
@@ -197,7 +211,7 @@
             </div>
           </div>
         </section>
-
+        <div class="notify"><span id="notifyType" class=""></span></div>
         <footer class="ftco-footer ftco-bg-dark ftco-section">
           <div class="container">
             <div class="row mb-5 justify-content-center">
@@ -262,6 +276,7 @@
       </div>
     </div>
 
+    <script src="js/clear_field.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js"></script>
     <script src="js/popper.min.js"></script>
