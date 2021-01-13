@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Joseph, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/555/555473.svg" width="13"/> <b>Montreal, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Joseph, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/555/555473.svg" width="13"/> <b>Montreal, Canada</b>. <a href="https://github.com/joseph-emmanuel">This is my portfolio. <img src="https://image.flaticon.com/icons/svg/942/942748.svg" width="13"/></a> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -29,39 +29,46 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/joseph-emmanuel/whistler"><b>Tracking and applying jobs online</b></a></td>
+      <td><a href="https://github.com/joseph-emmanuel/whistler"><b>WHISTLER - PHP, LARAVEL 8, MYSQL AND SOCIALITE</b></a></td>
       <td>2</td>
       <td>5</td>
+      <td>1</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joseph-emmanuel/social-sign"><b>SOCIAL SIGN APP - | PHP, HTML5, CSS3, MYSQL</b></a></td>
+      <td>1</td>
+      <td>2</td>
+      <td>0</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joseph-emmanuel/SmartQuiz"><b>SMARTQ- ANDROID APP</b></a></td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joseph-emmanuel/loan_prediction_training"><b>LOAN PREDICTION - | PYTHON, ANACONDA, PANDAS, MATPLOTLIB</b></a></td>
+      <td>1</td>
+      <td>4</td>
       <td>0</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/joseph-emmanuel/whistler"><b>Tracking and applying jobs online</b></a></td>
-      <td>2</td>
-      <td>5</td>
+      <td><a href="https://github.com/joseph-emmanuel/memory-game"><b>PUZZLER - | JS, HTML5, CSS3, MYSQL</b></a></td>
       <td>0</td>
       <td>2</td>
+      <td>0</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/joseph-emmanuel/whistler"><b>WHISTLER </b></a></td>
+      <td><a href="https://github.com/joseph-emmanuel/Dating_App"><b>MATCHER - | PHP, JS, HTML5, CSS3 AND MYSQL</b></a></td>
       <td>2</td>
-      <td>5</td>
+      <td>3</td>
       <td>0</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/joseph-emmanuel/whistler"><b>SOCIAL SIGN APP</b></a></td>
-      <td>2</td>
-      <td>5</td>
-      <td>0</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/joseph-emmanuel/whistler"><b>Tracking and applying jobs online</b></a></td>
-      <td>2</td>
-      <td>5</td>
-      <td>0</td>
-      <td>2</td>
+      <td>1</td>
     </tr>
 	  
   </tbody>
