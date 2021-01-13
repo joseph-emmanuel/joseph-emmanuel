@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Joseph, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/555/555473.svg" width="13"/> <b>Montreal, Canada</b>. <a href="https://github.com/joseph-emmanuel">This is my portfolio. <img src="https://image.flaticon.com/icons/svg/942/942748.svg" width="13"/></a> </p>
+<p>Welcome to my page! </br> I'm Joseph, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Bangalore, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/555/555473.svg" width="13"/> <b>Montreal, Canada</b>. <a href="https://joseph-emmanuel.github.io/joseph-emmanuel/">Here is my portfolio. <img src="https://image.flaticon.com/icons/svg/942/942748.svg" width="13"/></a> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
