@@ -28,6 +28,13 @@
     </tr>
   </thead>
   <tbody>
+	<tr>
+      <td><a href="https://github.com/joseph-emmanuel/tinder-clone"><b>Tinder - Clone - React,MongoDB,Firebase,Node and Express</b></a></td>
+      <td>3</td>
+      <td>2</td>
+      <td>12</td>
+      <td>0</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/joseph-emmanuel/whistler"><b>WHISTLER - PHP, LARAVEL 8, MYSQL AND SOCIALITE</b></a></td>
       <td>2</td>
